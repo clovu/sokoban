@@ -3,6 +3,8 @@ import App from './App.vue'
 import { usePinia } from './store'
 import './style.css'
 
+import './spaghetti'
+
 
 const app = createApp(App)
 

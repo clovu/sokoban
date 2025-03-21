@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="relative dark:brightness-50">
     <Map></Map>
     <Player></Player>
     <template v-for="target in targets">
